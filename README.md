@@ -2,6 +2,7 @@
 Geocode addresses with Google API from a CSV file
 
 2016 First written by shanealynn https://github.com/shanealynn
+
 2018 Forked and modified for better use and modern Google API by TannerCrook https://github.com/TannerCrook
 
 This script will geocode addresses that are in a csv file. The script has a variable for the address search string column name
